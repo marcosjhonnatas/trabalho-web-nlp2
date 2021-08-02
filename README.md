@@ -38,4 +38,4 @@ Conta na IBM para geração da chave de comunicação com a api do ibm-watson: h
  
  3 - Para executar a api, navegue até o diretório -- e execute o comando "node server.js";
  
- 4 - Para startar o front-end, navegue até o diretório "" e execute o comando "npm start".
+ 4 - Para startar o front-end, navegue até o diretório "trabalho-nlp2/src/" e execute o comando "npm start".
